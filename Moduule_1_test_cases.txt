@@ -1,0 +1,29 @@
+Test 1 : 
+
+Enter Correct Regular Expression :
+a+b*
+Examples for regex :
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+Do you want to check specific string acceptance :Enter [y] :
+y
+Enter string :
+aabb
+String is not accepted
+
+
+
+-------------------------------------------------------------------------
+Test 2:
+
+Enter Correct Regular Expression :
+(a+b)*
+Examples for regex :
+ aaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+
+ To check string acceptance Press [ y ]
+
+y
+Enter A string To check:
+a
+String is not accepted
