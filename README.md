@@ -3,7 +3,8 @@ Mina Isaac
 Fady Fawzy 
 Mina Ezzat
 
----------To use the program--------
+To use the program-
+
 First You Should install rstr library
        
 -> in command promot type 'pip install rstr'
